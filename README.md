@@ -6,7 +6,6 @@
   <h1>Hello! 👋 I'm Alex! and welcome to my profile! </h1>
 </h3>
 
-<hr>
 
 <h2 align="center">
   <a href="https://github.com/Soullessly">

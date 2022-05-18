@@ -5,7 +5,6 @@
   </a>
 
 </h3>
- Hi there 👋 I am ![Alex Barthel](https://Soullessly.github.io)
 
 <a href="https://www.linkedin.com/in/soullessly/">
   <img align="left" alt="Alex LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,5 +20,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soullessly&theme=synthwave">
   </a>
 </h2>
-
 <br>

@@ -6,7 +6,7 @@
   <h1>Hello! 👋 I'm Alex! and welcome to my profile! </h1>
 </h3>
 
-![]([https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG.gif](https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47yuqqpylrxjkuil6kkm5fizx5ohe04e68jwtcjckx&rid=giphy.gif&ct=g)
+![](https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47yuqqpylrxjkuil6kkm5fizx5ohe04e68jwtcjckx&rid=giphy.gif)
 
 <h2 align="center">
   <a href="https://github.com/Soullessly">

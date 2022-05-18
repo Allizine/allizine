@@ -3,7 +3,7 @@
   <a href="https://discord.gg/skirts/" alt="Discord">
 <img alt="Discord" src="https://img.shields.io/discord/907088745675763762?style=for-the-badge&color=blue">
   </a>
-
+  <h1>Hello! 👋 I'm Alex! and welcome to my profile! </h1>
 </h3>
 
 <hr>

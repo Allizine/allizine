@@ -5,7 +5,7 @@
   </a>
   <h1>Hello! 👋 I'm Alex! and welcome to my profile! </h1>
 </h3>
-![:)]([name-of-giphy.gif](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG))
+![:)](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG))
 
 <h2 align="center">
   <a href="https://github.com/Soullessly">

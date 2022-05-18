@@ -5,7 +5,6 @@
   </a>
   <h1>Hello! 👋 I'm Alex! and welcome to my profile! </h1>
 </h3>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default)
 
 <h2 align="center">
   <a href="https://github.com/Soullessly">

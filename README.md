@@ -3,9 +3,7 @@
   <a href="https://discord.gg/skirts/" alt="Discord">
 <img alt="Discord" src="https://img.shields.io/discord/907088745675763762?style=for-the-badge&color=blue">
   </a>
-  <a href="https://github.com/Soullessly/" alt="Website">
-      <img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=blue&up_message=Online&url=https%3A%2F%2F"/>
-  </a>
+
 </h3>
 
 <hr>

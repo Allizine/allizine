@@ -6,7 +6,7 @@
   <h1>Hello! 👋 I'm Alex! and welcome to my profile! </h1>
 </h3>
 
-![](https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47yuqqpylrxjkuil6kkm5fizx5ohe04e68jwtcjckx&rid=giphy.gif)
+<img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47yuqqpylrxjkuil6kkm5fizx5ohe04e68jwtcjckx&rid=giphy.gif" width="100%"/>
 
 <h2 align="center">
   <a href="https://github.com/Soullessly">

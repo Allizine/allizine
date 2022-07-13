@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://img.shields.io/github/followers/Soullessly?label=Followers&style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/followers/Allizine?label=Followers&style=for-the-badge&color=blue">
   <a href="https://discord.gg/skirts/" alt="Discord">
 <img alt="Discord" src="https://img.shields.io/discord/907088745675763762?style=for-the-badge&color=blue">
   </a>

@@ -9,12 +9,12 @@
 <img src="https://media4.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47yuqqpylrxjkuil6kkm5fizx5ohe04e68jwtcjckx&rid=giphy.gif" width="100%"/>
 
 <h2 align="center">
-  <a href="https://github.com/Soullessly">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Soullessly&show_icons=true&theme=synthwave">
+  <a href="https://github.com/Allizine">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Allizine&show_icons=true&theme=synthwave">
   </a>
   <br>
-  <a href="https://github.com/Soullessly">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soullessly&theme=synthwave">
+  <a href="https://github.com/Allizine">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allizine&theme=synthwave">
   </a>
 </h2>
 <br>

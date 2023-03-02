@@ -10,11 +10,6 @@
 
 <h2 align="center">
   <a href="https://github.com/Allizine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Allizine&show_icons=true&theme=synthwave">
-  </a>
-  <br>
-  <a href="https://github.com/Allizine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allizine&theme=synthwave">
   </a>
 </h2>
 <br>
